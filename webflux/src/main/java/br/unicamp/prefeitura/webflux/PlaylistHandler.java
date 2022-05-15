@@ -13,7 +13,7 @@ import br.unicamp.prefeitura.webflux.document.Playlist;
 import br.unicamp.prefeitura.webflux.services.PlaylistService;
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class PlaylistHandler {
 
 	@Autowired
